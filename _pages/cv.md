@@ -1,13 +1,11 @@
 ---
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
+layout: page
+permalink: /teaching/
+title: teaching
+description: Materials for courses you taught. Replace this text with your description.
+nav: false
+nav_order: 5
 ---
-
-{% include base_path %}
 
 
 
