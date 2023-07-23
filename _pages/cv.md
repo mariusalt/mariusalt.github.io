@@ -1,12 +1,13 @@
 ---
-layout: cv
+layout: archive
+title: "CV"
 permalink: /cv/
-title: cv
-nav: true
-nav_order: 4
-#cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in 'pages/_cv.md'. You can also change or remove the top pdf download button.
+author_profile: true
+redirect_from:
+  - /resume
 ---
+
+{% include base_path %}
 
 
 
@@ -20,4 +21,6 @@ description: This is a description of the page. You can modify it in 'pages/_cv.
 | 08/2014 - 08/2016 | MSc Environmental Economics, University of Copenhagen, Denmark   
 | 08/2011 - 07/2012 | Exchange student, Economics, Universtiy of Nottingham, UK   
 | 09/2009 - 05/2014   | BA Economics and Politics, Universtiy of Göttingen, Germany 
+
+
 
