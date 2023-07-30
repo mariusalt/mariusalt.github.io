@@ -22,18 +22,19 @@ social: true  # includes social icons at the bottom of the page
 I am a behavioral economist investigating topics in the field of environmental economics. My work covers various aspects of environmental economics like public good provision, energy conservation, green consumption, and sustainable finance. I did my Ph.D. at the University of Copenhagen in the Department for Food and Natural Resource Economics. At the same time, I had been working as a Researcher for the ZEW - Leibniz Centre for European Economic Research in the Department for Environmental and Resource Economics. In my research, I apply experimental economic methods to investigate behavioral responses to economic incentives, behavioral economic interventions like nudges, and exogenous information shocks.
 
 
+&nbsp;
+&nbsp;
 
-
-Publications
+## Publications
 ------
 
 Alt, M., & Gallier, C. (2022). Incentives and intertemporal behavioral spillovers: A two-period experiment on charitable giving. [_Journal of Economic Behavior & Organization_, 200, 959-972](https://www.sciencedirect.com/science/article/pii/S0167268122001895?casa_token=J_iiqHYhkTsAAAAA:6hsak05m1pJmUIjFsCyBnakSPVpueSFYAwhVj3KwwbTpVgugHuHMbkYNka3Xzge6WEM5xpJbOzyD).
 
 Alt, M., Gallier, C., Schlüter, A., Nelson, K., & Anggraini, E. (2018). Giving to versus taking from in-and out-group members. [_Games_](https://www.mdpi.com/2073-4336/9/3/57), 9(3), 57.
 
+&nbsp;
 
-
-Working Papers
+## Working Papers
 ------
 
 Alt, M. (2022). Better us later than me now - Regulatee-size and time-inconsistency as determinants of demand for environmental policies. [ZEW-Centre for European Economic Research Discussion Paper](https://www.econstor.eu/bitstream/10419/261380/1/1811215971.pdf), (22-028). Under Review in Journal of Behavioral and Experimental Economics.
