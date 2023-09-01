@@ -1,11 +1,9 @@
 ---
-layout: page
-title: CV
+layout: cv
 permalink: /cv/
-description:
+title: cv
 nav: true
-horizontal: false
+nav_order: 4
+cv_pdf: example_pdf.pdf
+description: This is a description of the page. You can modify it in 'pages/_cv.md'. You can also change or remove the top pdf download button.
 ---
-
-<iframe src="/assets/pdf/example_pdf.pdf" width="100%" height="900" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
-
