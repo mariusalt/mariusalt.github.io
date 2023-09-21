@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a behavioral economist investigating topics in the field of environmental economics. My work covers various aspects of environmental economics like public good provision, energy conservation, green consumption, and sustainable finance. I did my Ph.D. at the University of Copenhagen in the Department for Food and Natural Resource Economics. At the same time, I had been working as a Researcher for the ZEW - Leibniz Centre for European Economic Research in the Department for Environmental and Resource Economics. In my research, I apply experimental economic methods to investigate behavioral responses to economic incentives, behavioral economic interventions like nudges, and exogenous information shocks.
+I am a behavioral economist researching topics in the field of environmental economics. My work covers various aspects of environmental economics like public good provision, energy conservation, green consumption, and sustainable finance. I did my Ph.D. at the University of Copenhagen in the Department for Food and Natural Resource Economics. At the same time, I had been working as a Researcher for the ZEW - Leibniz Centre for European Economic Research in the Department for Environmental and Resource Economics. In my research, I apply experimental economic methods to investigate behavioral responses to economic incentives, behavioral economic interventions like nudges, and exogenous information shocks.
 
 
 &nbsp;
