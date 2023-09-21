@@ -43,5 +43,5 @@ Alt, M., Bruns, H., DellaValle, N., Murauskaite-Bull, I. (2022). Synergies of in
 
 Alt, M., Bruns, H., & DellaValle, N. (2023). The more the better? - Synergies of prosocial interventions and effects on behavioral spillovers. [Available at SSRN 4492487](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4492487sch). Under Review in _Journal of Environmental Economics and Management_.
 
-Alt, M., Berger, M., Bersch, J. (2023). Investor responses to information updates on peer behavior and public investment policy: The case of green investments. ZEW-Centre for European Economic Research Discussion Paper, (23-021). Under Review in _Journal of Business Venturing_.
+Alt, M., Berger, M., Bersch, J. (2023). Investor responses to information updates on peer behavior and public investment policy: The case of green investments. [ZEW-Centre for European Economic Research Discussion Paper](https://www.zew.de/en/publications/investor-responses-to-information-updates-on-peer-behavior-and-public-investment-policy-the-case-of-green-investments-1), (23-021). Under Review in _Journal of Business Venturing_.
 
