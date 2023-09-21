@@ -70,7 +70,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: https://github.com/mariusalt
+github_username: mariusalt
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
@@ -85,7 +85,7 @@ quora_username: # your Quora username
 publons_id: # your ID on Publons
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 osf_id: # your OSF ID
-research_gate_profile: https://www.researchgate.net/profile/Marius-Alt/research
+research_gate_profile: Marius-Alt/research
 scopus_id: # your profile on Scopus
 blogger_url: # your blogger URL
 work_url: # work page URL
