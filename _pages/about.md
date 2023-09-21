@@ -45,3 +45,4 @@ Alt, M., Bruns, H., & DellaValle, N. (2023). The more the better? - Synergies of
 
 Alt, M., Berger, M., Bersch, J. (2023). Investor responses to information updates on peer behavior and public investment policy: The case of green investments. [ZEW-Centre for European Economic Research Discussion Paper](https://www.zew.de/en/publications/investor-responses-to-information-updates-on-peer-behavior-and-public-investment-policy-the-case-of-green-investments-1), (23-021). Under Review in _Journal of Business Venturing_.
 
+&nbsp;
