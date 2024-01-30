@@ -27,7 +27,11 @@ I am a behavioral economist researching topics in the field of environmental eco
 
 ## Publications
 ------
-Alt, M., Gallier, C., Kesternich, M., Sturm, B. (2022). Collective Minimum Contributions to Counteract  the Ratchet Effect in Social Dilemmas. [ZEW-Centre for European Economic Research Discussion Paper, (22-053)](https://madoc.bib.uni-mannheim.de/63742/1/dp22053.pdf). Forthcoming in _Journal of Environmental Economics and Management_.
+Alt, M., Bruns, H., DellaValle, N., Murauskaite-Bull, I. (2024). Synergies of interventions to tackle climate change - a meta-analysis. [Available at SSRN 4305865](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4305865). Forthcoming in _Global Environmental Change_.
+
+Alt, M. (2024). Better us later than me now - Regulatee-size and time-inconsistency as determinants of demand for environmental policies. [_Journal of Behavioral and Experimental Economics_, 108, 102144](https://www.sciencedirect.com/science/article/abs/pii/S2214804323001702).
+
+Alt, M., Gallier, C., Kesternich, M., Sturm, B. (2023). Collective Minimum Contributions to Counteract  the Ratchet Effect in Social Dilemmas. [_Journal of Environmental Economics and Management_, 122, 102895](https://www.sciencedirect.com/science/article/abs/pii/S0095069623001134).
 
 Alt, M., & Gallier, C. (2022). Incentives and intertemporal behavioral spillovers: A two-period experiment on charitable giving. [_Journal of Economic Behavior & Organization_, 200, 959-972](https://www.sciencedirect.com/science/article/pii/S0167268122001895?casa_token=J_iiqHYhkTsAAAAA:6hsak05m1pJmUIjFsCyBnakSPVpueSFYAwhVj3KwwbTpVgugHuHMbkYNka3Xzge6WEM5xpJbOzyD).
 
@@ -37,11 +41,9 @@ Alt, M., Gallier, C., Schlüter, A., Nelson, K., & Anggraini, E. (2018). Giving 
 
 ## Working Papers
 ------
-Alt, M. (2022). Better us later than me now - Regulatee-size and time-inconsistency as determinants of demand for environmental policies. [ZEW-Centre for European Economic Research Discussion Paper](https://www.econstor.eu/bitstream/10419/261380/1/1811215971.pdf), (22-028). Revise & Resubmit in _Journal of Behavioral and Experimental Economics_.
+Alt, M., Hopfensitz, A., Stepanova, A. (2023). Trust and loneliness nexus -  experimental evidence from 27 European countries.
 
-Alt, M., Bruns, H., DellaValle, N., Murauskaite-Bull, I. (2022). Synergies of interventions to tackle climate change - a meta-analysis. [Available at SSRN 4305865](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4305865). Revise & Resubmit in _Global Environmental Change_.
-
-Alt, M., Bruns, H., & DellaValle, N. (2023). The more the better? - Synergies of prosocial interventions and effects on behavioral spillovers. [Available at SSRN 4492487](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4492487sch). Under Review in _Journal of Environmental Economics and Management_.
+Alt, M., Bruns, H., & DellaValle, N. (2023). The more the better? - Synergies of prosocial interventions and effects on behavioral spillovers. [Available at SSRN 4492487](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4492487sch). Revise and Resubmit in _Journal of Environmental Economics and Management_.
 
 Alt, M., Berger, M., Bersch, J. (2023). Investor responses to information updates on peer behavior and public investment policy: The case of green investments. [ZEW-Centre for European Economic Research Discussion Paper](https://www.zew.de/en/publications/investor-responses-to-information-updates-on-peer-behavior-and-public-investment-policy-the-case-of-green-investments-1), (23-021). Under Review in _Journal of Business Venturing_.
 
