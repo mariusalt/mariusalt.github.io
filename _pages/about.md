@@ -27,7 +27,7 @@ I am a behavioral economist researching topics in the field of environmental eco
 
 ## Publications
 ------
-Alt, M., Bruns, H., DellaValle, N., Murauskaite-Bull, I. (2024). Synergies of interventions to tackle climate change - a meta-analysis. [Available at SSRN 4305865](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4305865). Forthcoming in _Global Environmental Change_.
+Alt, M., Bruns, H., DellaValle, N., Murauskaite-Bull, I. (2024). Synergies of interventions to tackle climate change - a meta-analysis. [_Global Environmental Change_, 84, 102776.](https://www.sciencedirect.com/science/article/pii/S0959378023001425).
 
 Alt, M. (2024). Better us later than me now - Regulatee-size and time-inconsistency as determinants of demand for environmental policies. [_Journal of Behavioral and Experimental Economics_, 108, 102144](https://www.sciencedirect.com/science/article/abs/pii/S2214804323001702).
 
