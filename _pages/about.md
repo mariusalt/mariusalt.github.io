@@ -27,6 +27,8 @@ I am a behavioral economist researching topics in the field of environmental eco
 
 ## Publications
 ------
+Alt, M., Bruns, H., & DellaValle, N. (2024). The more the better? Synergies of prosocial interventions and effects on behavioural spillovers. [_Journal of Environmental Economics and Management_, 103061.](https://www.sciencedirect.com/science/article/pii/S0095069624001359?via%3Dihub)
+
 Alt, M., Bruns, H., DellaValle, N., Murauskaite-Bull, I. (2024). Synergies of interventions to tackle climate change - a meta-analysis. [_Global Environmental Change_, 84, 102776.](https://www.sciencedirect.com/science/article/pii/S0959378023001425).
 
 Alt, M. (2024). Better us later than me now - Regulatee-size and time-inconsistency as determinants of demand for environmental policies. [_Journal of Behavioral and Experimental Economics_, 108, 102144](https://www.sciencedirect.com/science/article/abs/pii/S2214804323001702).
@@ -42,8 +44,6 @@ Alt, M., Gallier, C., Schlüter, A., Nelson, K., & Anggraini, E. (2018). Giving 
 ## Working Papers
 ------
 Alt, M., Hopfensitz, A., Stepanova, A. (2023). Trust and loneliness nexus -  experimental evidence from 27 European countries.
-
-Alt, M., Bruns, H., & DellaValle, N. (2023). The more the better? - Synergies of prosocial interventions and effects on behavioral spillovers. [Available at SSRN 4492487](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4492487sch). Revise and Resubmit in _Journal of Environmental Economics and Management_.
 
 Alt, M., Berger, M., Bersch, J. (2023). Investor responses to information updates on peer behavior and public investment policy: The case of green investments. [ZEW-Centre for European Economic Research Discussion Paper](https://www.zew.de/en/publications/investor-responses-to-information-updates-on-peer-behavior-and-public-investment-policy-the-case-of-green-investments-1), (23-021). Under Review in _Journal of Business Venturing_.
 
