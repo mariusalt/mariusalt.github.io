@@ -27,7 +27,7 @@ I am a behavioral economist researching topics in the field of environmental eco
 
 ## Publications
 ------
-Alt, M., Bruns, H., & DellaValle, N. (2024). The more the better? Synergies of prosocial interventions and effects on behavioural spillovers. [_Journal of Environmental Economics and Management_, 103061.](https://www.sciencedirect.com/science/article/pii/S0095069624001359?via%3Dihub)
+Alt, M., Bruns, H., & DellaValle, N. (2024). The more the better? Synergies of prosocial interventions and effects on behavioural spillovers. [_Journal of Environmental Economics and Management_, 103061.](https://www.sciencedirect.com/science/article/pii/S0095069624001359?via%3Dihub).
 
 Alt, M., Bruns, H., DellaValle, N., Murauskaite-Bull, I. (2024). Synergies of interventions to tackle climate change - a meta-analysis. [_Global Environmental Change_, 84, 102776.](https://www.sciencedirect.com/science/article/pii/S0959378023001425).
 
